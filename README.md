@@ -1,2 +1,3 @@
-# CS480
-CS480 Computer Graphics assignments and projects, coded in Java with OpenGL
+# CS480 - Sketch Tool 
+
+This is a sketching tool that draws lines with mouse clicks, using Bresenham's algorithm
