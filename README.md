@@ -1,3 +1,3 @@
-# CS480 - Sketch Tool 
+# CS480 - Bug Model
 
-This is a sketching tool that draws lines with mouse clicks, using Bresenham's algorithm
+An articulated ant model built out of 3D shapes
