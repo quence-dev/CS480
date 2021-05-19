@@ -1,3 +1,3 @@
-# CS480 - Sketch Tool 
+# CS480 - Vivarium
 
-This is a sketching tool that draws lines with mouse clicks, using Bresenham's algorithm
+A vivarium model that uses gradients to simulate a predator/prey relationship between sharks and fish.
